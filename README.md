@@ -16,9 +16,4 @@ Self-taught Front End developer with marketing background. Eager to implement so
 - ![Bootstrap Icon](icons/bootstrap.svg) Bootstrap
 
 ## Some stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoproizoshlo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=default&bg_color=transparent&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
