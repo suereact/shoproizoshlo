@@ -9,20 +9,12 @@ Self-taught Front End developer with marketing background. Eager to implement so
 
 ### Languages I speak:
 
-- ![HTML5](icons/html5.png) HTML5
-- ![CSS3](icons/css3.png) CSS3
-- ![JavaScript](icons/javascript.png) JavaScript
-- ![React](icons/react.png) React
-- ![Bootstrap Icon](icon/bootstrap.svg)
-- ![Figma Icon](icon/figma.svg)
-
-
-### Want to learn:
-
-- ![TypeScript](icons/typescript.png) TypeScript
-- ![Next.js](icons/nextjs.png) Next.js
-- ![Vue.js](icons/vuejs.png) Vue.js
+- ![HTML5](icons/html5.svg) HTML5
+- ![CSS3](icons/css3.svg) CSS3
+- ![JavaScript](icons/js.svg) JavaScript
+- ![React](icons/react.svg) React
+- ![Bootstrap Icon](icons/bootstrap.svg) Bootstrap
 
 ## Some stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?shoproizoshlo&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoproizoshlo&show_icons=true)
