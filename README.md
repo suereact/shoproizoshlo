@@ -18,6 +18,7 @@ Self-taught Front End developer with marketing background. Eager to implement so
 ## Some stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shoproizoshlo&show_icons=true)
-![GitHub stats](https://img.shields.io/github/languages/count/shoproizoshlo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
