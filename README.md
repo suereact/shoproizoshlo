@@ -11,4 +11,5 @@ Self-taught Front End developer with marketing background. Eager to implement so
 ![HTML5](icons/html5.svg) ![CSS3](icons/css3.svg) ![JavaScript](icons/js.svg) ![React](icons/react.svg) ![Bootstrap Icon](icons/bootstrap.svg)
 
 ## Some stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
