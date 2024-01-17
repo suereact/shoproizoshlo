@@ -8,9 +8,17 @@ Self-taught Front End developer with marketing background. Eager to implement so
 
 ### Languages I speak:
 
-![HTML5](icons/html5.svg) ![CSS3](icons/css3.svg) ![JavaScript](icons/js.svg) ![React](icons/react.svg) ![Bootstrap Icon](icons/bootstrap.svg)
+![HTML5](icons/html5.svg) HTML5 
 
-HTML5 CSS3 JavaScript React Bootstrap
+![CSS3](icons/css3.svg) CSS3
+
+![JavaScript](icons/js.svg) JavaScript
+
+![React](icons/react.svg) React
+
+![Bootstrap Icon](icons/bootstrap.svg) Bootstrap
+
+    
 
 ## Some stats
 
