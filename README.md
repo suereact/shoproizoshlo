@@ -24,6 +24,6 @@ Self-taught Front End developer with marketing background. Eager to implement so
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-## See come projects I recently worked on
+## See some projects I recently worked on
 
 👇🏻 👇🏻 👇🏻
