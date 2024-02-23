@@ -9,6 +9,7 @@ Self-tough Frontend Developer with a marketing background, offering a unique ble
 ### Languages I speak:
 
 ![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Bootstrap](icons/bootstrap.png) ![Tailwind](icons/tailwind.png) 
+
 HTML5    CSS3    JavaScript    React    Bootstrap    Tailwind
     
 
