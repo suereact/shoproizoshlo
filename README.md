@@ -15,7 +15,8 @@ HTML5  -  CSS3  -  JavaScript  -  React  -  Bootstrap  -  Tailwind
 
 ## Some stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoproizoshlo&layout=compact&theme=dark&bg_color=22272e&title_color=ffffff&text_color=ffffff&cache=off)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## See some projects I recently worked on
 
