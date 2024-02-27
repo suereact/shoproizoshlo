@@ -2,7 +2,7 @@
 
 ## About me
 
-Self-tough Frontend Developer with a marketing background, offering a unique blend of experiences. My adaptability and innovative mindset shine in collaborative team environments. Proficient in JavaScript, React.js, and UI design, I specialize in creating scalable web applications, demonstrating expertise in API interaction, debugging, and responsive layout design. 
+Self-tough Frontend Developer with a marketing background, offering a unique blend of experiences. I specialize in creating scalable web applications, API interaction, and responsive layout design. 
 
 ## My technologies
 
