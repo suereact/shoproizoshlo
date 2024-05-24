@@ -16,6 +16,7 @@
 
 ![HTML5](icons/html5.png) ![CSS3](icons/CSS3.png) ![JavaScript](icons/javascript.png) ![React](icons/react.png) ![Vue](icons/vue.png) ![Tailwind](icons/tailwind.png) 
  ![Bootstrap](icons/bootstrap.png) 
+
 HTML5  -  CSS3  -  JavaScript  -  React  -  Vue  -  Tailwind  -  Bootstrap
     
 
